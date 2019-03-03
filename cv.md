@@ -26,3 +26,7 @@ Belarus State University
 Faculty of Applied Mathematics and Computer Sciences  
 Department: Theory of Probability and Mathematical Statistics  
 Specialization: Applied mathematics  
+
+#### LANGUAGES  
+Mother tongue: Russian  
+Other language(s): English B2, Italian C1  
