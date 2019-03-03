@@ -29,4 +29,4 @@ Specialization: Applied mathematics
 
 #### LANGUAGES  
 Mother tongue: Russian  
-Other language(s): English B2, Italian C1  
+Other languages: English B2, Italian C1  
